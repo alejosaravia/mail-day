@@ -1,2 +1,2 @@
 # mail-day
-A better app for managing multiple email accounts from one single place.
+A better app for managing multiple email accounts from a single place.
