@@ -1,0 +1,35 @@
+{
+  "name": "mail-day",
+  "version": "1.0.0",
+  "description": "A better app for managing multiple email accounts from a single place.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejosaravia/mail-day.git"
+  },
+  "keywords": [
+    "email",
+    "mail",
+    "manager",
+    "accounts",
+    "client",
+    "app",
+    "email manager",
+    "mail manager",
+    "mail app",
+    "email app",
+    "email accounts",
+    "mail accounts",
+    "mail client",
+    "email client"
+  ],
+  "author": "alejo.asaravia@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejosaravia/mail-day/issues"
+  },
+  "homepage": "https://github.com/alejosaravia/mail-day#readme"
+}
