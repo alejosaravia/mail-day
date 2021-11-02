@@ -1,1 +1,4 @@
 node_modules
+
+# Allowing per-user .vscode settings. Might change later
+.vscode
